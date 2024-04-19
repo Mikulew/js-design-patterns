@@ -16,6 +16,7 @@ Typically, the strategy pattern stores a reference to code in a data structure a
 ## Resources
 
 * [Wikipedia: Strategy pattern](https://en.wikipedia.org/wiki/Strategy_pattern)
+* [sbcode.net: Strategy Design Pattern](https://sbcode.net/typescript/strategy/)
 * [refactoring.guru: Strategy](https://refactoring.guru/design-patterns/strategy)
 * [dev.to: Design Pattern: Strategy (TS)](https://dev.to/daniyarotynshin/design-pattern-strategy-ts-3e55)
 * [Medium: Design Patterns with Typescript: Strategy](https://medium.com/@gabriel_avila/design-patterns-with-typescript-strategy-35007cbcd57a)
