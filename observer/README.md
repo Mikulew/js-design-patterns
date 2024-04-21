@@ -13,3 +13,5 @@ It is often used for implementing distributed event-handling systems in event-dr
 
 * [Wikipedia: Observer pattern](https://en.wikipedia.org/wiki/Observer_pattern)
 * [sbcode.net: Observer Design Pattern](https://sbcode.net/typescript/observer/)
+* [Christopher Okhravi: Observer Pattern – Design Patterns (ep 2)](https://www.youtube.com/watch?v=_BpmfnqjgzQ)
+* [Observer Pattern Screencast – OO Design Patterns Screencasts (ep 3)](https://www.youtube.com/watch?v=xU3oPZUf4Uw)
