@@ -1,32 +1,32 @@
-interface Observer {
-  update(subject: Subject): void;
+interface CustomerObserver {
+  update(subject: ProductSubject): void;
 }
 
-interface Subject {
-  addObserver(observer: Observer): void;
-  removeObserver(observer: Observer): void;
+interface ProductSubject {
+  addObserver(observer: CustomerObserver): void;
+  removeObserver(observer: CustomerObserver): void;
   notifyObservers(): void;
 }
 
-class Customer implements Observer {
+class Customer implements CustomerObserver {
   name: string;
   constructor(name: string) {
     this.name = name;
   }
 
-  update(subject: Subject): void {
+  update(subject: ProductSubject): void {
     console.log(`${this.name}, the product you want is back in stock.`);
   }
 }
 
-class Product implements Subject {
-  private observers: Observer[] = [];
+class Product implements ProductSubject {
+  private observers: CustomerObserver[] = [];
 
-  addObserver(observer: Observer): void {
+  addObserver(observer: CustomerObserver): void {
     this.observers.push(observer);
   }
 
-  removeObserver(observer: Observer): void {
+  removeObserver(observer: CustomerObserver): void {
     const removeIndex = this.observers.findIndex(obs => observer === obs);
     if (removeIndex !== -1) {
       this.observers.splice(removeIndex, 1);
