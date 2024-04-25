@@ -1,30 +1,29 @@
-// Observer Design Pattern Concept
+// Observer Design Pattern
 
-interface IObservable {
+interface IObservableConcept {
   // The Subject Interface
-
-  subscribe(observer: IObserver): void
+  subscribe(observer: IObserverConcept): void
   // The subscribe method
 
-  unsubscribe(observer: IObserver): void
+  unsubscribe(observer: IObserverConcept): void
   // The unsubscribe method
 
   notify(...args: unknown[]): void
   // The notify method
 }
 
-class Subject implements IObservable {
+class SubjectConcept implements IObservableConcept {
   // The Subject (a.k.a Observable)
-  #observers: Set<IObserver>
+  #observers: Set<IObserverConcept>
   constructor() {
     this.#observers = new Set()
   }
 
-  subscribe(observer: IObserver) {
+  subscribe(observer: IObserverConcept) {
     this.#observers.add(observer)
   }
 
-  unsubscribe(observer: IObserver) {
+  unsubscribe(observer: IObserverConcept) {
     this.#observers.delete(observer)
   }
 
@@ -35,18 +34,18 @@ class Subject implements IObservable {
   }
 }
 
-interface IObserver {
+interface IObserverConcept {
   // A method for the Observer to implement
 
   notify(...args: unknown[]): void
   // Receive notifications"
 }
 
-class Observer implements IObserver {
+class ObserverConcept implements IObserverConcept {
   // The concrete observer
   #id: number
 
-  constructor(observable: IObservable) {
+  constructor(observable: IObservableConcept) {
     this.#id = COUNTER++
     observable.subscribe(this)
   }
@@ -59,15 +58,21 @@ class Observer implements IObserver {
 }
 
 // The Client
-let COUNTER = 1 // An ID to help distinguish between objects
+let COUNTER = 1; // An ID to help distinguish between objects
 
-const SUBJECT = new Subject()
-const OBSERVER_1 = new Observer(SUBJECT)
-const OBSERVER_2 = new Observer(SUBJECT)
+const SUBJECT = new SubjectConcept();
+const OBSERVER_1 = new ObserverConcept(SUBJECT);
+const OBSERVER_2 = new ObserverConcept(SUBJECT);
 
-SUBJECT.notify('First Notification', [1, 2, 3])
+SUBJECT.notify('First Notification', [1, 2, 3]);
 
 // Unsubscribe OBSERVER_2
-SUBJECT.unsubscribe(OBSERVER_2)
+SUBJECT.unsubscribe(OBSERVER_2);
 
-SUBJECT.notify('Second Notification', { A: 1, B: 2, C: 3 })
+SUBJECT.notify('Second Notification', { A: 1, B: 2, C: 3 });
+/*
+ * // OUTOUT:
+ *    OBSERVER_1 received ["First Notification",[1,2,3]]  
+ *    OBSERVER_2 received ["First Notification",[1,2,3]]  
+ *    OBSERVER_1 received ["Second Notification",{"A":1,"B":2,"C":3}]  
+ */
