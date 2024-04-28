@@ -68,16 +68,16 @@ class MakeUseOfCustomer implements MakeUseOfObserver {
 }
 
 // Instantiating Subject and Observer
-const store = new MakeUseOfStore();
-const inventory = new MakeUseOfInventory();
-const customer = new MakeUseOfCustomer()
+const makeUseOfStore = new MakeUseOfStore();
+const makeUseOfInventory = new MakeUseOfInventory();
+const makeUseOfCustomer = new MakeUseOfCustomer()
  
 // Subscribing objects to publisher
-store.attachObserver(inventory);
-store.attachObserver(customer);
+makeUseOfStore.attachObserver(makeUseOfInventory);
+makeUseOfStore.attachObserver(makeUseOfCustomer);
 
 // Changing subject state
-store.newProduct(30);
+makeUseOfStore.newProduct(30);
 /*
  * // OUTPUT:
  *    New product added to the store!
