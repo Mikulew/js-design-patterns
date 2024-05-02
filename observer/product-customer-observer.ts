@@ -54,13 +54,15 @@ product.addObserver(jane);
 product.addObserver(mikulew);
 product.restock();
 /*
-  John, the product you want is back in stock.
-  Jane, the product you want is back in stock.
-  Mikulew, the product you want is back in stock.
-*/
+ * // OUTPUT:
+ * John, the product you want is back in stock.
+ * Jane, the product you want is back in stock.
+ * Mikulew, the product you want is back in stock.
+ */
 product.removeObserver(mikulew);
 product.restock(); 
 /*
-  John, the product you want is back in stock.
-  Jane, the product you want is back in stock.
-*/
+ * // OUTPUT:
+ * John, the product you want is back in stock.
+ * Jane, the product you want is back in stock.
+ */
