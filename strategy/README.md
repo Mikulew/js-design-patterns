@@ -24,5 +24,5 @@ Typically, the strategy pattern stores a reference to code in a data structure a
 * [devmaking: Strategy in TypeScript ](https://devmaking.com/learn/design-patterns/strategy-pattern/typescript/)
 * [Strategy Design Pattern in TypeScript](https://blog.bitsrc.io/a-beautiful-design-pattern-strategy-pattern-62afe44886fc)
 * [Christopher Okhravi: Strategy Pattern – Design Patterns (ep 1)](https://youtu.be/v9ejT8FO-7I?si=RRyZwKh-eO46PqkS)
-* [Strategy Pattern Screencast – OO Design Patterns Screencasts (ep 1)](https://www.youtube.com/watch?v=13nftsQUUE0)
-* [Strategy Pattern (in real life) Screencast – OO Design Patterns Screencasts (ep 2)](https://www.youtube.com/watch?v=slfeCvztnT4)
+* [Christopher Okhravi: Strategy Pattern Screencast – OO Design Patterns Screencasts (ep 1)](https://www.youtube.com/watch?v=13nftsQUUE0)
+* [Christopher Okhravi: Strategy Pattern (in real life) Screencast – OO Design Patterns Screencasts (ep 2)](https://www.youtube.com/watch?v=slfeCvztnT4)
