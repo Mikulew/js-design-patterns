@@ -10,3 +10,4 @@ In _object-oriented programming_, the **decorator pattern** is a design pattern 
 ## Resources
 
 * [Wikipedia: Observer pattern](https://en.wikipedia.org/wiki/Observer_pattern)
+* [sbcode.net: Decorator Design Pattern](https://sbcode.net/typescript/decorator/)
