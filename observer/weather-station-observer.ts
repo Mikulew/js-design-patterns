@@ -76,8 +76,6 @@ let fan = new AmirFan(weatherStation);
 
 weatherStation.setTemperature(20);
 weatherStation.setTemperature(30);
-
-
 /*
  * // OUTPUT:
  * WeatherStation: new temperature measurement: 20
