@@ -13,6 +13,7 @@ In _object-oriented programming_, the **decorator pattern** is a design pattern 
 * [sbcode.net: Decorator Design Pattern](https://sbcode.net/typescript/decorator/)
 * [refactoring.guru: Decorator](https://refactoring.guru/design-patterns/decorator)
 * [dev.to: Decorator pattern in TypeScript](https://dev.to/jmalvarez/decorator-pattern-in-typescript-na5)
+* [Design Patterns: Decorator Pattern in TypeScript](https://levelup.gitconnected.com/design-patterns-decorator-pattern-in-typescript-ae899692ac05)
 * [Design Patterns in TypeScript: The Decorator Pattern | packtpub.com](https://www.youtube.com/watch?v=1rjpesD2wl8)
 * [WebStoreMaker: Decorator Pattern (using TypeScript)](https://www.youtube.com/watch?v=wXzQvu4NID8)
 * [Simply Explained: Decorator Pattern (TypeScript Design Patterns)](https://www.youtube.com/watch?v=WPOLDEk1LF0&t=189s)
