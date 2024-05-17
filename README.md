@@ -19,6 +19,7 @@ In software engineering, a **software design pattern** is a general, reusable so
 ## Articles
 [EN]
 * [Wikipedia](https://en.wikipedia.org/wiki/Software_design_pattern)
+* [TypeScript Design Patterns Tutorial for Beginners](https://www.youtube.com/watch?v=5rsvkHY4FGE)
 
 [PL]
 * [Wzorce projektowe JavaScript](https://frontstack.pl/wzorce-projektowe-javascript/)
