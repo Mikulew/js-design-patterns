@@ -20,7 +20,8 @@ In software engineering, a **software design pattern** is a general, reusable so
 [EN]
 * [Wikipedia](https://en.wikipedia.org/wiki/Software_design_pattern)
 * [TypeScript Design Patterns Tutorial for Beginners](https://www.youtube.com/watch?v=5rsvkHY4FGE)
-* [OOP i Wzorce projektowe - niezbędnik programisty](https://www.youtube.com/watch?v=5BME8zimEN8)
 
 [PL]
 * [Wzorce projektowe JavaScript](https://frontstack.pl/wzorce-projektowe-javascript/)
+* [OOP i Wzorce projektowe - niezbędnik programisty](https://www.youtube.com/watch?v=5BME8zimEN8)
+* [Jak uczyć się wzorców projektowych na froncie? Odpowiedź dla Juniora, Mida i Seniora](https://www.youtube.com/watch?v=yiJlKWxk2jE)
