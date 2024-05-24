@@ -22,3 +22,4 @@ In _object-oriented programming_, the **decorator pattern** is a design pattern 
 * [WebStoreMaker: Decorator Pattern (using TypeScript)](https://www.youtube.com/watch?v=wXzQvu4NID8)
 * [Simply Explained: Decorator Pattern (TypeScript Design Patterns)](https://www.youtube.com/watch?v=WPOLDEk1LF0&t=189s)
 * [Code Legends: Typescript Design Patterns: Decorator Design Pattern](https://www.youtube.com/watch?v=MeHRlFF1Tfk)
+* [frontstack.pl: Wzorzec: Decorator Design Pattern](https://www.frontstack.pl/blog/decorator-design-pattern)
