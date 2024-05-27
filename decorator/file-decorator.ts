@@ -74,13 +74,16 @@ class ReverseDecorator extends DataSourceDecorator {
 
 const file = new FileDataSource("file.txt");
 const encryptedFile = new EncryptionDecorator(file);
+const compressedEncryptedFile = new ReverseDecorator(encryptedFile);
 
-encryptedFile.writeData("Hello world!");
-encryptedFile.readData();
+compressedEncryptedFile.writeData("Hello world!");
+compressedEncryptedFile.readData();
 /*
  * // OUTPUT:
- *    [EncryptionDecorator] Encrypted data: SGVsbG8gd29ybGQh
- *    [FileDataSource] Writing to file: file.txt, data: SGVsbG8gd29ybGQh
- *    [FileDataSource] Reading from file: file.txt, data: SGVsbG8gd29ybGQh
- *    [EncryptionDecorator] Decrypted data: Hello world!
+ *    [ReverseDecorator] Reversed data: !dlrow olleH
+ *    [EncryptionDecorator] Encrypted data: IWRscm93IG9sbGVI
+ *    [FileDataSource] Writing to file: file.txt, data: IWRscm93IG9sbGVI
+ *    [FileDataSource] Reading from file: file.txt, data: IWRscm93IG9sbGVI
+ *    [EncryptionDecorator] Decrypted data: !dlrow olleH
+ *    [ReverseDecorator] Unreversed data: Hello world!
  */
