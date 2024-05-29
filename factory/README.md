@@ -18,3 +18,4 @@ Terminology differs as to whether the concept of a **factory** is itself a desig
 * [Wikipedia: Factory pattern](https://en.wikipedia.org/wiki/Factory_(object-oriented_programming))
 * [Wikipedia: Abstract factory pattern](https://en.wikipedia.org/wiki/Abstract_factory_pattern)
 * [Wikipedia: Factory method pattern](https://en.wikipedia.org/wiki/Factory_method_pattern)
+* [sbcode.net: Abstract Factory Design Pattern](https://sbcode.net/typescript/abstract_factory/)
