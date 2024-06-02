@@ -22,3 +22,5 @@ Terminology differs as to whether the concept of a **factory** is itself a desig
 * [sbcode.net: Abstract Factory Design Pattern](https://sbcode.net/typescript/abstract_factory/)
 * [refactoring.guru: Factory Method](https://refactoring.guru/design-patterns/factory-method)
 * [refactoring.guru: Abstract Factory](https://refactoring.guru/design-patterns/abstract-factory)
+* [Factory Comparison](https://refactoring.guru/design-patterns/factory-comparison)
+* [Stackoverflow: What are the differences between Abstract Factory and Factory design patterns?](https://stackoverflow.com/questions/5739611/what-are-the-differences-between-abstract-factory-and-factory-design-patterns)
