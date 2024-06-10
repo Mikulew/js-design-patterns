@@ -19,3 +19,4 @@ More specifically, the **singleton pattern** allows objects to:
 * [Wikipedia: Singleton pattern](https://en.wikipedia.org/wiki/Singleton_pattern)
 * [sbcode.net: Singleton Pattern](https://sbcode.net/typescript/singleton/)
 * [refactoring.guru: Singleton](https://refactoring.guru/design-patterns/singleton)
+* [JavaScript Patterns: Singleton](https://javascriptpatterns.vercel.app/patterns/design-patterns/singleton-pattern)
