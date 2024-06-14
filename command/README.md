@@ -16,3 +16,4 @@ The central ideas of this design pattern closely mirror the semantics of first-c
 ## Resources
 
 * [Wikipedia: Command pattern](https://en.wikipedia.org/wiki/Command_pattern)
+* [sbcode.net: Command Design Pattern](https://sbcode.net/typescript/command/)
