@@ -25,3 +25,5 @@ Terminology differs as to whether the concept of a **factory** is itself a desig
 * [JavaScript Patterns: Factory](https://javascriptpatterns.vercel.app/patterns/design-patterns/factory-pattern)
 * [Factory Comparison](https://refactoring.guru/design-patterns/factory-comparison)
 * [Stackoverflow: What are the differences between Abstract Factory and Factory design patterns?](https://stackoverflow.com/questions/5739611/what-are-the-differences-between-abstract-factory-and-factory-design-patterns)
+* [Christopher Okhravi: Factory Method Pattern – Design Patterns (ep 4)](https://www.youtube.com/watch?v=EcFVTgRHJLM)
+* [Christopher Okhravi: Abstract Factory Pattern – Design Patterns (ep 5)](https://www.youtube.com/watch?v=v-GiuMmsXj4)
