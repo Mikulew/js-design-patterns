@@ -12,3 +12,4 @@ An example is an **adapter** that converts the interface of a _Document Object M
 ## Resources
 
 * [Wikipedia: Adapter pattern](https://en.wikipedia.org/wiki/Adapter_pattern)
+* [sbcode.net: Adapter Design Pattern](https://sbcode.net/typescript/adapter/)
