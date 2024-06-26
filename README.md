@@ -29,3 +29,4 @@ In software engineering, a **software design pattern** is a general, reusable so
 * [Wzorce projektowe JavaScript](https://frontstack.pl/wzorce-projektowe-javascript/)
 * [OOP i Wzorce projektowe - niezbędnik programisty](https://www.youtube.com/watch?v=5BME8zimEN8)
 * [Jak uczyć się wzorców projektowych na froncie? Odpowiedź dla Juniora, Mida i Seniora](https://www.youtube.com/watch?v=yiJlKWxk2jE)
+* [Przemek Bykowski: Szkolenie Wzorce Projektowe - Observer, Decorator, Factory Method, Singleton, Strategy](https://www.youtube.com/watch?v=gFevma4a_qQ)
