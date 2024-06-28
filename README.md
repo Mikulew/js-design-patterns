@@ -4,7 +4,7 @@
 
 - [General info](#general-info)
 - [Technologies](#technologies)
-- [Articles](#articles)
+- [Resources](#resources)
 
 ## General info
 
@@ -16,7 +16,7 @@ In software engineering, a **software design pattern** is a general, reusable so
 
 - JavaScript (ES6+)
 
-## Articles
+## Resources
 [EN]
 * [Wikipedia](https://en.wikipedia.org/wiki/Software_design_pattern)
 * [Design Patterns in TypeScript](https://medium.com/@ennkay161/design-patterns-in-typescript-260108159ea9)
