@@ -17,6 +17,7 @@ It is often used for implementing distributed event-handling systems in event-dr
 * [JavaScript Patterns: Observer](https://javascriptpatterns.vercel.app/patterns/design-patterns/observer-pattern)
 * [Understanding the Observer Design Pattern through TypeScript examples](https://medium.com/@alessandro.traversi/understanding-the-observer-design-pattern-through-typescript-examples-4afe5e4661d)
 * [Understanding Design Patterns: Observer](https://dev.to/carlillo/understanding-design-patterns-observer-2ajp)
+* [Understanding the Observer Pattern in TypeScript](https://medium.com/@sanketsangar.11/understanding-the-observer-pattern-in-typescript-bce5e6c6975c)
 * [makeuseof.com: Implementing the Observer Design Pattern in TypeScript](https://www.makeuseof.com/observer-design-pattern-typescript/)
 * [codeburst.io: Implementing Observer pattern on Typescript](https://codeburst.io/implementing-observer-pattern-on-typescript-344e62a1e468)
 * [How to Implement Design Patterns in TypeScript: Observer](https://amirelemam.medium.com/how-to-implement-design-patterns-in-typescript-observer-f4fd7185d30d)
