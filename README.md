@@ -20,6 +20,7 @@ In software engineering, a **software design pattern** is a general, reusable so
 [EN]
 * [Wikipedia](https://en.wikipedia.org/wiki/Software_design_pattern)
 * [What are top must know design patterns?](https://www.designgurus.io/answers/detail/what-are-top-must-know-design-patterns?gad_source=1&gclid=Cj0KCQjw-ai0BhDPARIsAB6hmP5jipuaavzqErhEKCuYRpK7gjJB_VN59J_VOripg6Sng7JSQ47KzZEaAkv_EALw_wcB)
+* [The 3 Types of Design Patterns All Developers Should Know (with code examples of each)](https://www.freecodecamp.org/news/the-basic-design-patterns-all-developers-need-to-know/)
 * [Design Patterns in TypeScript](https://medium.com/@ennkay161/design-patterns-in-typescript-260108159ea9)
 * [TypeScript Design Patterns Tutorial for Beginners](https://www.youtube.com/watch?v=5rsvkHY4FGE)
 * [CppCon: Back to Basics: Design Patterns - Mike Shah](https://www.youtube.com/watch?v=2UUqX2eIdSM)
