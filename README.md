@@ -31,6 +31,7 @@ In software engineering, a **software design pattern** is a general, reusable so
 * [Creational Design Patterns using Typescript](https://www.proximity.blog/post/creational-design-patterns-using-typescript-2022330)
 * [Creational Design Patterns | Introduction | Software design patterns series](https://www.youtube.com/watch?v=YwOCQgJs5r8)
 * [Structural Design Patterns with examples in Typescript](https://turalowski.medium.com/structural-design-patterns-with-examples-in-typescript-8e2c51a3d85c)
+* [Design Patterns and Idioms in ES6](https://github.com/bugthesystem/design-patterns-and-idioms-in-es6)
 
 [PL]
 * [Wzorce projektowe JavaScript](https://frontstack.pl/wzorce-projektowe-javascript/)
