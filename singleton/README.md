@@ -20,4 +20,7 @@ More specifically, the **singleton pattern** allows objects to:
 * [sbcode.net: Singleton Pattern](https://sbcode.net/typescript/singleton/)
 * [refactoring.guru: Singleton](https://refactoring.guru/design-patterns/singleton)
 * [JavaScript Patterns: Singleton](https://javascriptpatterns.vercel.app/patterns/design-patterns/singleton-pattern)
+* [How to define Singleton in TypeScript](https://stackoverflow.com/questions/30174078/how-to-define-singleton-in-typescript)
+* [Is it possible to abstract the singleton pattern from the class itself?](https://stackoverflow.com/questions/74289589/is-it-possible-to-abstract-the-singleton-pattern-from-the-class-itself)
+* [Typescript singleton with method execute](https://stackoverflow.com/questions/73571211/typescript-singleton-with-method-execute)
 * [Christopher Okhravi: Singleton Pattern – Design Patterns (ep 6)](https://www.youtube.com/watch?v=hUE_j6q0LTQ)
