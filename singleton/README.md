@@ -23,4 +23,5 @@ More specifically, the **singleton pattern** allows objects to:
 * [How to define Singleton in TypeScript](https://stackoverflow.com/questions/30174078/how-to-define-singleton-in-typescript)
 * [Is it possible to abstract the singleton pattern from the class itself?](https://stackoverflow.com/questions/74289589/is-it-possible-to-abstract-the-singleton-pattern-from-the-class-itself)
 * [Typescript singleton with method execute](https://stackoverflow.com/questions/73571211/typescript-singleton-with-method-execute)
+* [Wennovation Academy: Singleton Pattern | Implementation in TypeScript | Software Design patterns series](https://www.youtube.com/watch?v=2dNNyDDpUbo)
 * [Christopher Okhravi: Singleton Pattern – Design Patterns (ep 6)](https://www.youtube.com/watch?v=hUE_j6q0LTQ)
