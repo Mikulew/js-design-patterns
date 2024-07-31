@@ -31,5 +31,6 @@ More specifically, the **singleton pattern** allows objects to:
 * [Singleton pattern in TypeScript](https://dev.to/jmalvarez/singleton-pattern-in-typescript-2le7)
 * [Typescript Design Patterns: Singleton](https://themythicalengineer.com/typescript-design-patterns-singleton.html)
 * [Singleton Design Pattern in NestJS and Typescript](https://www.kscerbiakas.lt/singleton-nestjs-typescript/)
+* [The Singleton Pattern In TypeScript](https://blog.bitsrc.io/the-singleton-pattern-in-typescript-b906303fda93)
 * [Wennovation Academy: Singleton Pattern | Implementation in TypeScript | Software Design patterns series](https://www.youtube.com/watch?v=2dNNyDDpUbo)
 * [Christopher Okhravi: Singleton Pattern – Design Patterns (ep 6)](https://www.youtube.com/watch?v=hUE_j6q0LTQ)
